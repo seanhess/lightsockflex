@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+<includeClasses>
+<classEntry path="net.seanhess.json.JSON"/>
+<classEntry path="net.seanhess.json.JSONDecoder"/>
+<classEntry path="net.seanhess.json.JSONEncoder"/>
+<classEntry path="net.seanhess.json.JSONParseError"/>
+<classEntry path="net.seanhess.json.JSONToken"/>
+<classEntry path="net.seanhess.json.JSONTokenType"/>
+<classEntry path="net.seanhess.json.JSONTokenizer"/>
+<classEntry path="net.seanhess.lightsock.Client"/>
+<classEntry path="net.seanhess.lightsock.DefaultEvents"/>
+<classEntry path="net.seanhess.lightsock.IDataEncoder"/>
+<classEntry path="net.seanhess.lightsock.ISocketMessage"/>
+<classEntry path="net.seanhess.lightsock.JsonEncoder"/>
+<classEntry path="net.seanhess.lightsock.LightSocketEvent"/>
+<classEntry path="net.seanhess.lightsock.SocketMessage"/>
+<classEntry path="net.seanhess.lightsock.StringEncoder"/>
+</includeClasses>
+<includeResources/>
+<namespaceManifests/>
+</flexLibProperties>
